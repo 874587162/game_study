@@ -2,9 +2,9 @@ import 'dart:ui';
 
 import 'package:flame/flame.dart';
 import 'package:flame/game.dart';
-import 'package:game_study/01/component/cloud_component.dart';
-import 'package:game_study/01/component/ground_component.dart';
-import 'package:game_study/01/component/obstacle_component.dart';
+import 'package:game_study/component/cloud_component.dart';
+import 'package:game_study/component/ground_component.dart';
+import 'package:game_study/component/obstacle_component.dart';
 
 import 'component/player_component.dart';
 
