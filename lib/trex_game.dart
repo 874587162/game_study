@@ -14,7 +14,7 @@ class TrexGame extends FlameGame {
 
   @override
   Future<void> onLoad() async {
-    spriteImage = await Flame.images.load('trex/trex.png');
+    spriteImage = await Flame.images.load('trex.png');
     add(CloudComponent());
     add(GroundComponent());
     add(ObstacleComponent());
